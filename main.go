@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("master branch (not default branch)")
+	fmt.Println("another-branch branch (default branch)")
 }
